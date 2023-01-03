@@ -1,0 +1,35 @@
+{
+  "name": "Sharx White List ✅",
+  "symbol": "SHARX",
+  "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n Sharx is the official NFT collection of Sharky, the #1 NFT lending platform on Solana. They are your newest frens ready to take over the NFT world. Feed $FISHY → grow into whale sharx. Earn, trade, celebrate! \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://sharxsharkywl.netlify.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftimages/blob/main/sharx.png?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "SHARX",
+    "family": "WhiteList"
+  },
+  "image": "https://github.com/holydiamonds/nftimages/blob/main/sharx.png?raw=true"
+}
